@@ -1,2 +1,2 @@
 # ReactJs
-This Repo contains projects based on ReactJs
+This Repo contains projects based on React
